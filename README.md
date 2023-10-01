@@ -1,6 +1,6 @@
 <h1>Language Translation</h1>
 
-<h3>This project provides an efficient way to translate english to french.</h3>
+<h3>This project provides an efficient way to translate English to French.</h3>
 
 <pre>
 Two ways are used to solve the problem:
